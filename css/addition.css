@@ -1,0 +1,23 @@
+.special-container {
+     width: 100%; 
+    display: flex;
+    justify-content: center;
+} 
+
+img {
+    width: 80%;
+    color: red;
+    margin: 30px;
+}
+
+.box-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+}
+
+.left {
+    margin-bottom: 10px;
+/*     justify-content: left; */
+}
